@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-aakgil
-=======
-vfjvfvvbvnfvbfjkvegegh
->>>>>>> Akhil

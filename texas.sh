@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-cjbrjbwrjbjbjvbfffff
-=======
-cbhvhvbvbvb
->>>>>>> Akhil
